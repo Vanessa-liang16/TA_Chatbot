@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">IoT_ChatBot_AssistantAPI</string>
+    <string name="openai_api_key">OpenAI_API_key</string>
+</resources>
